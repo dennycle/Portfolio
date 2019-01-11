@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+img {
+  float: left;
+  margin-right: 40px;
+  margin-left: 20px;
+}
+ul {
+  font-family: sans-serif;
+}
+li {
+  font-weight: bold;
+}
