@@ -9,14 +9,17 @@ This webpage is to showcase Denny Le's programming portfolio of some of the proj
 
 ### Setup
 Clone this repository.
+Open "index.html" in a web browser of your choice.
+
+Or
+
+Open your web browser and go to: https://dennycle.github.io/Portfolio/
 
 ### Technologies Used
 HTML
 CSS
 Bootstrap
 
-
-Open index.html in web browser.
-
-### Copyright (c) 2019
-Copyright Holder All Rights Reserved.
+### Legal
+Copyright (c) 2019 Denny Le
+This software is licensed under the MIT license.
