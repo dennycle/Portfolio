@@ -16,8 +16,8 @@ Or
 Open your web browser and go to: https://dennycle.github.io/Portfolio/
 
 ### Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 Bootstrap
 
 ### Legal
