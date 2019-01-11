@@ -1,18 +1,22 @@
 # Denny Le's Programming Portfolio
 
-## Author
-Denny Le
+### Portfolio - Independent Project for Epicodus, 1-11-19
 
-## Description
-This webpage is to showcase Denny Le's programming portfolio.
+## By Denny Le
 
-## Technologies Used
-HTML, CSS, Bootstrap, Atom, Git, GitHub
+### Description
+This webpage is to showcase Denny Le's programming portfolio of some of the projects he has made so far after one week of classes at Epicodus.
 
-## Setup
+### Setup
 Clone this repository.
+
+### Technologies Used
+HTML
+CSS
+Bootstrap
+
 
 Open index.html in web browser.
 
-## Copyright (c) 2019
+### Copyright (c) 2019
 Copyright Holder All Rights Reserved.
