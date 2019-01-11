@@ -4,12 +4,19 @@ h1 {
 }
 img {
   float: left;
-  margin-right: 40px;
-  margin-left: 20px;
+  margin-right: 35px;
+  margin-left: 35px;
 }
-ul {
-  font-family: sans-serif;
+.panel-info {
+  background-color: #e6f9ff;
+  margin-top: 50px;
 }
 li {
   font-weight: bold;
+}
+.aboutme {
+  text-align: center;
+}
+body {
+  background-color: #e6faff;
 }
