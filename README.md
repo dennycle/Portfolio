@@ -22,4 +22,5 @@ Bootstrap
 
 ### Legal
 Copyright (c) 2019 Denny Le
+
 This software is licensed under the MIT license.
